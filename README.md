@@ -9,8 +9,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=Postgresql)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-040f04?style=for-the-badge&logo=docker)
 ![GIT](https://img.shields.io/badge/-git-040f04?style=for-the-badge&logo=git)
-![GIT](https://img.shields.io/badge/-liux-040f04?style=for-the-badge&logo=Ubuntu)
+![GIT](https://img.shields.io/badge/-linux-040f04?style=for-the-badge&logo=Ubuntu)
 ![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=)
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML)
 
-Follow Me
+### Follow Me
+[![VK](https://img.shields.io/badge/-Vk-040f04?style=for-the-badge&logo=vk)](https://vk.com/id547128657)
+[![Telegram](https://img.shields.io/badge/-telegram-040f04?style=for-the-badge&logo=telegram)](https://t.me/AlexeiYakish)
