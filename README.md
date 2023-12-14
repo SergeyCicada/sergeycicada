@@ -13,6 +13,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
 
+### My statistics on СodeWars
+![Codewars](https://github.r2v.ch/codewars?user=SergeyKelme)
+
 ### Follow Me
 [![VK](https://img.shields.io/badge/-Vk-040f04?style=for-the-badge&logo=vk)](https://vk.com/id547128657)
 [![Telegram](https://img.shields.io/badge/-telegram-040f04?style=for-the-badge&logo=telegram)](https://t.me/AlexeiYakish)
