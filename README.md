@@ -13,6 +13,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
 
+### Courses completed and advanced training
+[Cloud Services Engineer](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_20222%D0%98%D0%9E%D0%A100934%20(1)%20(1).pdf)
+
+
 ### My statistics on СodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=SergeyKelme)
 
