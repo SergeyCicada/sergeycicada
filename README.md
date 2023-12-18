@@ -16,6 +16,19 @@
 ### Courses completed and advanced training
 [Cloud Services Engineer](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_20222%D0%98%D0%9E%D0%A100934%20(1)%20(1).pdf)
 
+[Networks and computing systems](https://github.com/SergeyCicada/completed_courses/blob/main/Certificate%20for%20Cisco.pdf)
+
+[Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-67-3d823b1.pdf)
+
+[Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58852-e829f55.pdf)
+
+[Doctor Web Security Space](https://github.com/SergeyCicada/completed_courses/blob/main/photo_2023-03-23_10-21-55.jpg)
+
+[Introduction to Networking](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58678-96bbf3f.pdf)
+
+[Computer engineering](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1.%D0%90..pdf)
+
+[Webdesigner](https://github.com/SergeyCicada/completed_courses/blob/main/19e1a8ebc96e08b4f7b74220ef3622c5.png)
 
 ### My statistics on СodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=SergeyKelme)
