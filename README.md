@@ -6,15 +6,18 @@
 ![Python](https://img.shields.io/badge/-Python-040f04?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-040f04?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-040f04?style=for-the-badge&logo=Django)
-![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=Postgresql)
+![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=MySQL)
+![SQL](https://img.shields.io/badge/-POSTGRESQL-040f04?style=for-the-badge&logo=Postgresql)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-040f04?style=for-the-badge&logo=docker)
 ![GIT](https://img.shields.io/badge/-git-040f04?style=for-the-badge&logo=git)
-![GIT](https://img.shields.io/badge/-linux-040f04?style=for-the-badge&logo=Ubuntu)
+![Linux](https://img.shields.io/badge/-linux-040f04?style=for-the-badge&logo=Ubuntu)
 ![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
 
 ### Courses completed and advanced training
 [Cloud Services Engineer](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_20222%D0%98%D0%9E%D0%A100934%20(1)%20(1).pdf)
+
+[SQL Academy certificate](https://github.com/SergeyCicada/completed_courses/blob/main/certificate-659765eaaf43570048d4986d.pdf)
 
 [Networks and computing systems](https://github.com/SergeyCicada/completed_courses/blob/main/Certificate%20for%20Cisco.pdf)
 
