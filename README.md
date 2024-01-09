@@ -29,6 +29,8 @@
 
 [Introduction to Networking](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58678-96bbf3f.pdf)
 
+[Сreation of user interface](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1.%20%D0%90..jpg)
+
 [Computer engineering](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1.%D0%90..pdf)
 
 [Webdesigner](https://github.com/SergeyCicada/completed_courses/blob/main/19e1a8ebc96e08b4f7b74220ef3622c5.png)
