@@ -25,6 +25,8 @@
 
 [Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58852-e829f55.pdf)
 
+[English elementary](https://github.com/SergeyCicada/completed_courses/blob/main/1392217_qeOoL9EAbi9L09ZV.png)
+
 [Doctor Web Security Space](https://github.com/SergeyCicada/completed_courses/blob/main/photo_2023-03-23_10-21-55.jpg)
 
 [Introduction to Networking](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58678-96bbf3f.pdf)
