@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-040f04?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-040f04?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-040f04?style=for-the-badge&logo=Django)
+![Postman](https://img.shields.io/badge/-Postman-040f04?style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=MySQL)
 ![SQL](https://img.shields.io/badge/-POSTGRESQL-040f04?style=for-the-badge&logo=Postgresql)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-040f04?style=for-the-badge&logo=docker)
