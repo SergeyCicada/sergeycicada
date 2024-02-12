@@ -20,6 +20,8 @@
 
 [SQL Academy certificate](https://github.com/SergeyCicada/completed_courses/blob/main/certificate-659765eaaf43570048d4986d.pdf)
 
+[SQL Academy certificate v2](https://github.com/SergeyCicada/completed_courses/blob/main/SqlCertificate.pdf)
+
 [Networks and computing systems](https://github.com/SergeyCicada/completed_courses/blob/main/Certificate%20for%20Cisco.pdf)
 
 [Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-67-3d823b1.pdf)
