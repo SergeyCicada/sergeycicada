@@ -18,6 +18,10 @@
 ### Courses completed and advanced training
 [Cloud Services Engineer](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_20222%D0%98%D0%9E%D0%A100934%20(1)%20(1).pdf)
 
+[Django](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-174634-192876f.pdf)
+
+[Django advanced](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-177355-73f88b8.pdf)
+
 [SQL Academy certificate](https://github.com/SergeyCicada/completed_courses/blob/main/certificate-659765eaaf43570048d4986d.pdf)
 
 [SQL Academy certificate v2](https://github.com/SergeyCicada/completed_courses/blob/main/SqlCertificate.pdf)
